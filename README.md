@@ -1,1 +1,4 @@
 # new-phones
+
+samsung
+lg
